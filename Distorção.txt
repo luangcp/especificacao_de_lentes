@@ -1,0 +1,20 @@
+Distorção
+
+Vimos que as lentes perdem luz e em função disso cria-se uma
+perda ou distorção na imagem e que o gráfico MTF nos dá um indicador
+da qualidade da lente em função da distorção
+
+Mas alem de saber se essa distoção é muito ou pouco sifnificativa, 
+temos um outro parametro que nos mostra o tipo dessa distorção, se será positiva
+ou negativa.
+
+Um parametro também disponibilizado pelo fabricante da lente
+em seu manual é o valor de distorção
+
+O valor de intensidade da distorção, então quanto menor, melhor qualidade terá a lente
+Ja o sinal (+ e - ou >E<) siginifica o tipo de distorção
+conhecido como almofada ou barril
+
+Se o valor é negativo ou com sinal < a distorção é do tipo barril
+se o valor for positivo ou com sinal > é do tipo almofada
+

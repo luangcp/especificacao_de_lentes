@@ -1,0 +1,27 @@
+Resolução da lente
+
+Podemos definir resolução como a menor distância entre 
+os dois pontos onde eles ainda aparecem como objetos individuais
+
+O poder resolutivo da uma lente está relacionado diretamente com o
+comprimento de onda da luz utilizada, distancia focal e diametro de abertura de iris
+
+Pode ser calculado através da formula]: PR=1/1,22.L.(f/d)
+
+em que PR= Poder resolutivo| L(lambida) = Comprimento de onda em mm| f = cmprimento focal | d = diametro da abertura da iris
+
+EXEMPLO: Usaremos uma lede de 25mm de comprimento focal
+comf/stop de 5,6 e quisermos saber de qual cor (comprimento de onda) de iluminação
+nos dará uma melhor resolução, luz azul (4,70nm) ou vermelha(625nm)
+
+PR = 1/1,22.0,00047.(25/5,6) = 1/0,00255 = 392,15
+
+PR = 1/1,22.0,000625.(25/5,6) = 1/1,22.0.000625.4,46 = 1/0,0034 = 294,11
+
+Então se quisermos melhor resolução da lente, usaremos a luz azul, pois
+nos da maior quantidade de linhas por milimetro que a vermelha
+
+Podemos observar também que quanto maior o diametro da abertura da iris, maior sera a resolução
+Dessa forma o desafio é encontrar uma abertura de iris que nos de uma boa resolução e também uma boa profundidade de
+foco para a aplicação, como vimos anteriormente.
+

@@ -1,0 +1,21 @@
+INTRODUÇÃO
+
+Quando se pensa em uma lente para um sistema de visão, precisamos observar
+algumas caracteristicas que são fundamentais para a escolha da lente correta.
+
+A lente esta diretamente relacionada com a qualidade da imagem capturada,
+sendo assim se não obtivermos a lente ideal para a aplicação, essa pode ser
+responsavel pelo fracasso do sistema
+
+Para escolha de lente para aplicações simples, precisamos levar em consideração:
+- Tipo de lente
+- Tamanho de lente
+- Comprimento ou distancia local
+- Abertura do iris
+
+Para aplicações mais complexas, onde precisamos de alta precisão ou absorver variações 
+muito grande de processo, entramos em um estudo mais profundo e levamos em consideração além dos itens 
+anteriores
+- Função de transferencia de modulação (FTM ou MTF)
+- Distorção
+- Resolução da lente

@@ -1,0 +1,15 @@
+TIPO DE LENTE
+Para sistemas de visão, basicamente encontramos lentes do tipo "C" e "CS"
+Essa nomenclaruta diz respeito a distancia entre a base da lente e o sensor de captura de imagem da camera
+
+Para lentes do tipo "C", esse valor é de 17,52mm para as do tipo "CS"é de 12,51mm
+
+Essa distancia faz com que a imagem tenha foco para que possamos realizar a inspeção
+Se essa distancia construtiva da camera não é obedecida a imagem fica totalmente sem foco
+
+Em cameras do tipo CS como a distancia é de 12,52 caso precisamos de uma lente C podemos usar um
+adaptador de 5mm com uma peça colocada entre a camera e a lente com a espessura de 5mm 
+
+Porem para cameras do tipo C que a distancia é 17,52 se usarmos uma lente CS cuja distancia entre alente
+e sensor de captura deve ser 12,52 não tem como remover 5mm da câmera para atingir a especificação de
+distancia, Nesse caso nunca teremos foco

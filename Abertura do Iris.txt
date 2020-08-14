@@ -1,0 +1,55 @@
+Abertura do Iris
+
+A íris da lente tem um papel fundamental para a captura da imagem. 
+A sua função é deixar passar mais ou menos luz para o sensor de captura de imagem
+
+Quanto mais aberta, mais a luz irá passar e consequentemente a imagem ficará
+mais clara, quanto mais fechada, menos luz irá passar e a imagem ficara mais escura.
+
+A função da iris vai muito alem de apenas deixar uma imagem mais clara
+ou mais escura ela é diretamente responsavel pela profundidade de campo, o que na pratica
+é a diferença entre a menor e maior distancia que podemos capturar uma imagem sem que ela 
+perca o foco
+
+A iris também é responsavel pela resolução da lente.
+
+Quando nos referimos a abertura da iris pensamos em f/stop de uma lente. 
+Esse valor indica qual o diametro da abertura da iris podendo ser calculado atraves da formula: N=f/d
+Em que N= diametro da abertura | f = comprimento focal | d = diametro efetivo da lente
+
+Exemplo: se temos uma lente de 25mm de comprimento focal e seu f/stop for F/4 temos:
+N=25/4 = 6,25mm
+
+Então quanto menor o valor do f/stop maior é abertura da íris
+
+Para calcular a profundidade de campo precisamos calcular e entender o circulo de consusão.
+
+O circulo de confusão está relacionado diretamente com a nitidez da imagem, na pratica pode ser definido
+como o maior circulo que uma imagem produzira a partir de um ponto sem que o nosso cerebro e olho interoretem como
+desfocado.
+
+O circulo de confusão pode ser calculado usando a formula: C=d/1730
+em que C = Circulo de confusão | d = diagonal do sensor da camera em milimetros
+
+Exemplo: Para saber qual o circulo de confusão de uma camera com sensor de 5,3mm de medida diagonal teremos:
+C=5,3/1730 = 0,00306mm
+
+Retomando agora o calculo da profundidade de campo prcisamos saber qual é a distancia mais proxima do objeto e a 
+mais distante e assim calcularmos a diferença entre elas
+
+O calculo do limite mais proximo se da através da formula : Pp = P- / 1+(p-F).C.D/f²
+
+em que Pp = Limite de profundidade | P = distancia do objeto | f = comprimento focal | C = circulo de confusão 
+
+Exemplo: Temos uma camera com um sensor de medida diagonal de 5,3mm como no ex anterior. Usaremos uma lente de 25mm de comprimento
+focal com f/stop de 5,6.
+
+O objeto que queremos capturar esta a 500mm de distancia da camera, dessa forma temos:
+
+Pp = 500/1+(500-25).5,3/1730.5,6/25³ = 500/1,01 = 495,04mm
+
+Pi = 500/1-(500-25).5,3/1730.5,6/25² = 500/0.98 = 510,20mm
+
+Profundidade do campo = Pi-Pp = 510,20-495,04 = 15,16mm
+
+Siginifica que o meu objeto pode variar de 495,04 ate 510,20 sem que a imagem desfoque

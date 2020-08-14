@@ -1,0 +1,6 @@
+Função de transferencia de modulação (FTM ou MTF)
+
+Toda e qualquer lente gera uma certa distorção quando a luz
+atravessa, essa distorção é causada pela perda de parte dessa luz,
+ja que nenhum sistema é perfeto
+

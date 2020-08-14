@@ -1,0 +1,22 @@
+Comprimento ou distância focal.
+
+Para qualquer lente que for utilizada, a imagem ao passar por ela é invertida e projetada no sensor de captura
+da imagem de "cabeça pra baixo" em relação a imagem original
+
+A distancia entre o ponto onde ocorre a inversão de imagem e o sensor de captura da imagem é chamada de distancia focal
+de comprimento focal
+
+Essa mediana impacta diretamente no campo de visão que vamos enxergar em relação a distancia do objeto já que
+tem influencia no angulo de abertura da lente.
+Quanto maior o valor, mais fechado. E o angulo quanto menor, mais aberto.
+
+O comprimento focal de uma lente pode ser calculado para uma distancia e campo de visão especificos usando a formula f=s/S * D
+em que f = comprimento focal  | s = tamanho do sensor em milimetros | S = campo de visão | D = distancia do objeto
+
+Ex: Se temos um objeto com tamanho de 50x35mm e queremos deixar a camera a 200mm de distância usando uma câmera cujo 
+sensor tem 4,24 x 3,18mm faremos:
+f=4,24/50 x 200 f= 16,96
+
+Nesse caso não existe uma lente de 16,96 mm, podemos usar uma de 16mm e deixar a camera mais perto ou enxergar uma área um
+pouco maior do que a do objeto
+
